@@ -37,7 +37,7 @@ Ejecuta el script principal para iniciar el flujo completo. Los resultados de te
 
 ```bash
 python 00_main_executor.py
-
+```
 ---
 
 ## 📄 Reporte del Proyecto
