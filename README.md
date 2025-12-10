@@ -37,3 +37,6 @@ Ejecuta el script principal para iniciar el flujo completo. Los resultados de te
 
 ```bash
 python 00_main_executor.py
+
+## 📄 Reporte del Proyecto
+[Descargar o ver el reporte en PDF](Proyecto_3___Introduccón_a_la_IA.pdf)
