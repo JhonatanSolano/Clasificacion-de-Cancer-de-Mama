@@ -22,14 +22,14 @@ La ejecución se orquesta mediante el script principal (`00_main_executor.py`) q
 
 Instala todas las dependencias necesarias usando el archivo `requirements.txt`:
 
-1.  **Instalar Dependencias:*
+1.  *Instalar Dependencias:*
     ```bash
     pip install -r requirements.txt
     ```
 
 ### Contenido de `requirements.txt`:
 
-Dependencias principales para el proyecto de Clasificación ML: pandas, numpy, scikit-learn, matplotlib, tabulate 
+Dependencias principales para el proyecto de Clasificación ML: pandas, numpy, scikit-learn, matplotlib, tabulate.
 
 ## 🛠️ Guía de Ejecución
 
